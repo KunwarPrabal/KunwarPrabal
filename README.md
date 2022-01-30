@@ -9,6 +9,9 @@
 <a href="https://www.hackerrank.com/kunwarprabal">
   <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />
 </a>
+<a href="https://leetcode.com/kunwarprabal/">
+  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
+</a>
 <a href="mailto:prabal.kpps@gmail.com">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
