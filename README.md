@@ -1,4 +1,4 @@
-  ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="4%">, I'm Kunwar Prabal! 
+  ## Hey 👋, I'm Kunwar Prabal! 
 
 <a href="https://www.linkedin.com/in/kunwarprabal/">
   <img align="left" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"  />
