@@ -3,9 +3,6 @@
 <a href="https://www.linkedin.com/in/kunwarprabal/">
   <img align="left" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"  />
 </a>
-<a href="https://www.codechef.com/users/kunwarprabal">
-  <img align="left" width="70px" src="https://cdn.codechef.com/images/cc-logo-sd.svg" />
-</a>
 <a href="https://www.hackerrank.com/kunwarprabal">
   <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" />
 </a>
